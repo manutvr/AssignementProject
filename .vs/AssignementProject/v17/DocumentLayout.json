@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\AssignementProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{124FD8AB-18D8-42FC-974F-1E17731642BB}|AssignementProject\\AssignementProject.csproj|c:\\users\\administrator\\source\\repos\\assignementproject\\assignementproject\\utility\\datasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{124FD8AB-18D8-42FC-974F-1E17731642BB}|AssignementProject\\AssignementProject.csproj|solutionrelative:assignementproject\\utility\\datasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{124FD8AB-18D8-42FC-974F-1E17731642BB}|AssignementProject\\AssignementProject.csproj|c:\\users\\administrator\\source\\repos\\assignementproject\\assignementproject\\test\\addemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{124FD8AB-18D8-42FC-974F-1E17731642BB}|AssignementProject\\AssignementProject.csproj|solutionrelative:assignementproject\\test\\addemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{124FD8AB-18D8-42FC-974F-1E17731642BB}|AssignementProject\\AssignementProject.csproj|c:\\users\\administrator\\source\\repos\\assignementproject\\assignementproject\\test\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{124FD8AB-18D8-42FC-974F-1E17731642BB}|AssignementProject\\AssignementProject.csproj|solutionrelative:assignementproject\\test\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{124FD8AB-18D8-42FC-974F-1E17731642BB}|AssignementProject\\AssignementProject.csproj|c:\\users\\administrator\\source\\repos\\assignementproject\\assignementproject\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{124FD8AB-18D8-42FC-974F-1E17731642BB}|AssignementProject\\AssignementProject.csproj|solutionrelative:assignementproject\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{124FD8AB-18D8-42FC-974F-1E17731642BB}|AssignementProject\\AssignementProject.csproj|c:\\users\\administrator\\source\\repos\\assignementproject\\assignementproject\\base\\automationwraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{124FD8AB-18D8-42FC-974F-1E17731642BB}|AssignementProject\\AssignementProject.csproj|solutionrelative:assignementproject\\base\\automationwraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEmployees.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AssignementProject\\AssignementProject\\Test\\AddEmployees.cs",
+              "RelativeDocumentMoniker": "AssignementProject\\Test\\AddEmployees.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AssignementProject\\AssignementProject\\Test\\AddEmployees.cs",
+              "RelativeToolTip": "AssignementProject\\Test\\AddEmployees.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T08:36:43.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AssignementProject\\AssignementProject\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "AssignementProject\\Pages\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AssignementProject\\AssignementProject\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "AssignementProject\\Pages\\LoginPage.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAswCYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:56:12.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataSource.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AssignementProject\\AssignementProject\\Utility\\DataSource.cs",
+              "RelativeDocumentMoniker": "AssignementProject\\Utility\\DataSource.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AssignementProject\\AssignementProject\\Utility\\DataSource.cs",
+              "RelativeToolTip": "AssignementProject\\Utility\\DataSource.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:53:11.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginTest.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AssignementProject\\AssignementProject\\Test\\LoginTest.cs",
+              "RelativeDocumentMoniker": "AssignementProject\\Test\\LoginTest.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AssignementProject\\AssignementProject\\Test\\LoginTest.cs",
+              "RelativeToolTip": "AssignementProject\\Test\\LoginTest.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:51:41.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutomationWraper.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AssignementProject\\AssignementProject\\Base\\AutomationWraper.cs",
+              "RelativeDocumentMoniker": "AssignementProject\\Base\\AutomationWraper.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AssignementProject\\AssignementProject\\Base\\AutomationWraper.cs",
+              "RelativeToolTip": "AssignementProject\\Base\\AutomationWraper.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:37:46.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
